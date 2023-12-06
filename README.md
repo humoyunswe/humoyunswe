@@ -1,5 +1,5 @@
 # 💫 About Me:
-> Student of University TUIT.
+**Student of University TUIT.**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/humoyun-akbaraliev-a76119288/) 
