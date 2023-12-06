@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning study at the Tashkent University of Information Technology.<br>
+Humoyun<br>
 
 
 ## 🌐 Socials:
