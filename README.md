@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer,study at University TUIT  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/humoyun-akbaraliev-a76119288/) <br>
+Software Engineer,study at University TUIT  <img href="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftuit.uz%2F&psig=AOvVaw2zZrrsqvo2XOX0YDJhjaIh&ust=1701941802539000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOimkLbB-oIDFQAAAAAdAAAAABAE"><br>
 
 
 ## 🌐 Socials:
