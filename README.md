@@ -1,5 +1,5 @@
 # About Me:
-Software Engineer.<br>
+Software Engineer<br>
 
 
 ## 🌐 Socials:
