@@ -1,5 +1,5 @@
 # About Me:
-I'm currently learning and working.<br>
+Software Engineer.<br>
 
 
 ## 🌐 Socials:
